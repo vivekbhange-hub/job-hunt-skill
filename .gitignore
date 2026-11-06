@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+*.tmp
+
+# Personal job-search data created by the skills when run inside this repo
+jobhunt/

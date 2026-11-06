@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "job-hunt-skill",
+  "description": "Your whole job search team, from reading the posting to negotiating the offer.",
+  "owner": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "plugins": [
+    {
+      "name": "job-hunt-skill",
+      "description": "Eight Claude Code skills and four interviewer agents that decode postings, tailor resumes and cover letters from your real experience, run mock interviews, compare offers and track applications. Never invents experience.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/vivekbhange-hub/job-hunt-skill"
+    }
+  ]
+}

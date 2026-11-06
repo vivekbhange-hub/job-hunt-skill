@@ -1,0 +1,19 @@
+{
+  "name": "job-hunt-skill",
+  "description": "Your whole job search team, from reading the posting to negotiating the offer: decode postings, tailor resumes and cover letters from real experience only, mock interviews, offer comparison, follow-ups and an application tracker.",
+  "version": "1.0.0",
+  "author": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "homepage": "https://github.com/vivekbhange-hub/job-hunt-skill",
+  "repository": "https://github.com/vivekbhange-hub/job-hunt-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "job-search",
+    "resume",
+    "cover-letter",
+    "interview-prep",
+    "salary-negotiation",
+    "career"
+  ]
+}

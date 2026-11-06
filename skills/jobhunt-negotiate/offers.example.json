@@ -1,0 +1,31 @@
+{
+  "currency": "USD",
+  "years": 4,
+  "offers": [
+    {
+      "name": "Company A",
+      "base": 120000,
+      "bonus_pct": 10,
+      "equity_value": 80000,
+      "vesting_years": 4,
+      "cliff_months": 12,
+      "signing_bonus": 10000,
+      "benefits_value": 9000,
+      "remote_days": 2,
+      "commute_minutes": 70,
+      "commute_cost": 12,
+      "pto_days": 20
+    },
+    {
+      "name": "Company B",
+      "base": 132000,
+      "bonus_pct": 0,
+      "equity_value": 0,
+      "signing_bonus": 0,
+      "benefits_value": 7000,
+      "remote_days": 5,
+      "pto_days": 25,
+      "annual_raise_pct": 3
+    }
+  ]
+}
